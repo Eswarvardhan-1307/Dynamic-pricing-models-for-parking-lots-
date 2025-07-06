@@ -66,6 +66,9 @@ These models caluculates prices based on demand , occupancy, traffic, and nearby
     A live dashboard built with Bokeh visualizes the price outputs in real-time. It uses a feature called `ColumnDataSource.stream()` to efficiently update the graphs without redrawing them entirely.This allows you to watch **line plots of the prices** as they evolve and change in response to the incoming data, providing a clear and immediate justification for the models' behavior.
 
    **Relavant Documentation**
+   ## Project Report
+
+[📄 Project Report](docs/project_report.pdf)
    
 
 
