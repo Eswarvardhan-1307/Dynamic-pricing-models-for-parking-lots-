@@ -14,5 +14,16 @@ The Models:
 Baseline Linear Model: A simple starting point where the price increases linearly with the parking lot's occupancy.
 Demand-Based Model: A more advanced model where you create a demand function based on occupancy, queue length, traffic, and other features to set the price.
 Competitive Pricing Model (Optional): An advanced model that incorporates the prices of nearby competitor parking lots, determined by their geographic location.
-these models caluculates prices based on demand , occupancy, traffic, and nearby competitors 
+These models caluculates prices based on demand , occupancy, traffic, and nearby competitors 
+
+
+## 🧰 Tech Stack
+- **Python** – Core programming language
+- **Pandas, NumPy** – Data preprocessing and for Exploratory data analysis
+- **Pathway** – Real-time streaming and processing engine
+- **Bokeh** – Real-time visualization of pricing
+- **Google Colab** – Development IDE environment
+- **Mermaid** – Architecture diagrams
+
+
 
