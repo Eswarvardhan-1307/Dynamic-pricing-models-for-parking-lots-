@@ -68,7 +68,7 @@ These models caluculates prices based on demand , occupancy, traffic, and nearby
    **Relavant Documentation**
    ## Project Report
 
-[📄 Project Report](docs/project_report.pdf)
+[📄 Project_report](Project_report.docx)
    
 
 
